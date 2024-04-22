@@ -1,4 +1,4 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> Hi, I'm Duc
+# <img src="https://github.com/hellovietduc/hellovietduc/blob/master/hi.gif" width="35" /> Hi, I'm Duc
 
 Welcome to my GitHub profile!
 
