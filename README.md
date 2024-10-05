@@ -2,6 +2,6 @@
 
 Welcome to my GitHub profile!
 
-I'm a Software Engineer at [Padlet](https://padlet.com).
+I'm a Senior Software Engineer at [Padlet](https://padlet.com).
 
-Check out what I write at [DuckWhoCodes](https://duckwho.codes) or what I work on below ⬇️.
+Check out what I write at [DuckWho.Codes](https://duckwho.codes) or what I work on below ⬇️.
